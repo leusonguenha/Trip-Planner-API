@@ -1,6 +1,6 @@
-# Trip Planner API Report
+# Trip Planner API
 
-## Introduction
+## Trip Planner
 
 The Trip Planner API is designed to facilitate planning and managing trips with comprehensive features including trip management, participant invitations, link management, activity scheduling, and accommodation booking. This report provides an overview of the API structure, endpoints, and security measures.
 
