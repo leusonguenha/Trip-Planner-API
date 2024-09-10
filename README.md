@@ -8,7 +8,6 @@ The Trip Planner API is designed to facilitate planning and managing trips with 
 
 - **Title**: Trip Planner API
 - **Description**: This API allows users to manage trips, invite participants, manage links, schedule activities, and book accommodations.
-- **GitHub Repository**: [Trip Planner API Repository](https://github.com/your/repository)
 
 ## Microservices
 
